@@ -13,3 +13,6 @@ Extensive synchronisation (mutexes, semaphores) was used to support concurrent p
 Socket programming was used for communication.
 
 for running program just download zip file and type make
+
+1. In terminal first need to export the library file for MQTT protocal library
+2. command "exprot LD_LIBRARY_PATH=/mqtt lib file path/
