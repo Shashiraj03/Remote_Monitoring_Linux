@@ -11,3 +11,5 @@ Sensor data needed to be generated in a separate module, using random number gen
 Development was done using C++, Visual studio code and Linux. Pthread library was used for multi-threaded operation. 
 Extensive synchronisation (mutexes, semaphores) was used to support concurrent processing by the multiple threads. 
 Socket programming was used for communication.
+
+for running program just download zip file and type make
